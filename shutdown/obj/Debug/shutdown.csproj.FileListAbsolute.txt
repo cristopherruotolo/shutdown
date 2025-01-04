@@ -1,0 +1,10 @@
+C:\Users\Menix\source\repos\shutdown\shutdown\obj\Debug\shutdown.csproj.AssemblyReference.cache
+C:\Users\Menix\source\repos\shutdown\shutdown\obj\Debug\ShutdownTimerApp.MainForm.resources
+C:\Users\Menix\source\repos\shutdown\shutdown\obj\Debug\shutdown.Properties.Resources.resources
+C:\Users\Menix\source\repos\shutdown\shutdown\obj\Debug\shutdown.csproj.GenerateResource.cache
+C:\Users\Menix\source\repos\shutdown\shutdown\obj\Debug\shutdown.csproj.CoreCompileInputs.cache
+C:\Users\Menix\source\repos\shutdown\shutdown\bin\Debug\shutdown.exe.config
+C:\Users\Menix\source\repos\shutdown\shutdown\bin\Debug\shutdown.exe
+C:\Users\Menix\source\repos\shutdown\shutdown\bin\Debug\shutdown.pdb
+C:\Users\Menix\source\repos\shutdown\shutdown\obj\Debug\shutdown.exe
+C:\Users\Menix\source\repos\shutdown\shutdown\obj\Debug\shutdown.pdb
